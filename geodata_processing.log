@@ -1,0 +1,1035 @@
+2025-04-09 10:24:05,303 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 10:24:05,304 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 10:24:05,407 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 10:31:33,831 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 10:31:33,831 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 10:31:33,936 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 10:32:00,363 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 10:32:00,364 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 10:32:00,464 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 10:32:01,617 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 10:32:01,757 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 10:32:01,758 - geodata_processing - ERROR - Missing files for join: DatasetJoin(left_dataset=OrderedDict({'fulltext': 'Basi Censuarie ISTAT', 'fullurl': 'http://51.15.160.236:8880/index.php?title=Basi_Censuarie_ISTAT', 'namespace': 0, 'exists': '1', 'displaytitle': ''}), right_dataset=OrderedDict({'fulltext': 'Occupati e studenti suddivisi per sezione di censimento', 'fullurl': 'http://51.15.160.236:8880/index.php?title=Occupati_e_studenti_suddivisi_per_sezione_di_censimento', 'namespace': 0, 'exists': '1', 'displaytitle': ''}), left_column='SEZ', right_column='Sezione Censimento (2011)')
+2025-04-09 10:33:13,523 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 10:33:13,523 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 10:33:13,635 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 10:33:14,664 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 10:33:15,011 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 10:33:15,014 - geodata_processing - ERROR - Missing files for join: DatasetJoin(left_dataset=OrderedDict({'fulltext': 'Basi Censuarie ISTAT', 'fullurl': 'http://51.15.160.236:8880/index.php?title=Basi_Censuarie_ISTAT', 'namespace': 0, 'exists': '1', 'displaytitle': ''}), right_dataset=OrderedDict({'fulltext': 'Occupati e studenti suddivisi per sezione di censimento', 'fullurl': 'http://51.15.160.236:8880/index.php?title=Occupati_e_studenti_suddivisi_per_sezione_di_censimento', 'namespace': 0, 'exists': '1', 'displaytitle': ''}), left_column='SEZ', right_column='Sezione Censimento (2011)'), geodata/OrderedDict({'fulltext': 'Basi Censuarie ISTAT', 'fullurl': 'http:/51.15.160.236:8880/index.php?title=Basi_Censuarie_ISTAT', 'namespace': 0, 'exists': '1', 'displaytitle': ''}).parquet, geodata/OrderedDict({'fulltext': 'Occupati e studenti suddivisi per sezione di censimento', 'fullurl': 'http:/51.15.160.236:8880/index.php?title=Occupati_e_studenti_suddivisi_per_sezione_di_censimento', 'namespace': 0, 'exists': '1', 'displaytitle': ''}).parquet
+2025-04-09 10:36:42,671 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 10:36:42,671 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 10:36:42,769 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 10:36:43,804 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 10:36:43,941 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 10:36:43,941 - geodata_processing - ERROR - Missing files for join: DatasetJoin(left_dataset=OrderedDict({'fulltext': 'Basi Censuarie ISTAT', 'fullurl': 'http://51.15.160.236:8880/index.php?title=Basi_Censuarie_ISTAT', 'namespace': 0, 'exists': '1', 'displaytitle': ''}), right_dataset=OrderedDict({'fulltext': 'Occupati e studenti suddivisi per sezione di censimento', 'fullurl': 'http://51.15.160.236:8880/index.php?title=Occupati_e_studenti_suddivisi_per_sezione_di_censimento', 'namespace': 0, 'exists': '1', 'displaytitle': ''}), left_column='SEZ', right_column='Sezione Censimento (2011)'), geodata/OrderedDict({'fulltext': 'Basi Censuarie ISTAT', 'fullurl': 'http:/51.15.160.236:8880/index.php?title=Basi_Censuarie_ISTAT', 'namespace': 0, 'exists': '1', 'displaytitle': ''}).parquet, geodata/OrderedDict({'fulltext': 'Occupati e studenti suddivisi per sezione di censimento', 'fullurl': 'http:/51.15.160.236:8880/index.php?title=Occupati_e_studenti_suddivisi_per_sezione_di_censimento', 'namespace': 0, 'exists': '1', 'displaytitle': ''}).parquet
+2025-04-09 10:37:37,849 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 10:37:37,850 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 10:37:37,957 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 10:37:38,982 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 10:37:39,135 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 10:37:39,136 - geodata_processing - ERROR - Missing files for join: DatasetJoin(left_dataset=OrderedDict({'fulltext': 'Basi Censuarie ISTAT', 'fullurl': 'http://51.15.160.236:8880/index.php?title=Basi_Censuarie_ISTAT', 'namespace': 0, 'exists': '1', 'displaytitle': ''}), right_dataset=OrderedDict({'fulltext': 'Occupati e studenti suddivisi per sezione di censimento', 'fullurl': 'http://51.15.160.236:8880/index.php?title=Occupati_e_studenti_suddivisi_per_sezione_di_censimento', 'namespace': 0, 'exists': '1', 'displaytitle': ''}), left_column='SEZ', right_column='Sezione Censimento (2011)'), geodata/OrderedDict({'fulltext': 'Basi Censuarie ISTAT', 'fullurl': 'http:/51.15.160.236:8880/index.php?title=Basi_Censuarie_ISTAT', 'namespace': 0, 'exists': '1', 'displaytitle': ''}).parquet, geodata/OrderedDict({'fulltext': 'Occupati e studenti suddivisi per sezione di censimento', 'fullurl': 'http:/51.15.160.236:8880/index.php?title=Occupati_e_studenti_suddivisi_per_sezione_di_censimento', 'namespace': 0, 'exists': '1', 'displaytitle': ''}).parquet
+2025-04-09 10:38:25,261 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 10:38:25,261 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 10:38:25,379 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 10:38:26,484 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 10:38:26,645 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 10:38:26,646 - geodata_processing - ERROR - Missing files for join: DatasetJoin(left_dataset=OrderedDict({'fulltext': 'Basi Censuarie ISTAT', 'fullurl': 'http://51.15.160.236:8880/index.php?title=Basi_Censuarie_ISTAT', 'namespace': 0, 'exists': '1', 'displaytitle': ''}), right_dataset=OrderedDict({'fulltext': 'Occupati e studenti suddivisi per sezione di censimento', 'fullurl': 'http://51.15.160.236:8880/index.php?title=Occupati_e_studenti_suddivisi_per_sezione_di_censimento', 'namespace': 0, 'exists': '1', 'displaytitle': ''}), left_column='SEZ', right_column='Sezione Censimento (2011)'), geodata/OrderedDict({'fulltext': 'Basi Censuarie ISTAT', 'fullurl': 'http:/51.15.160.236:8880/index.php?title=Basi_Censuarie_ISTAT', 'namespace': 0, 'exists': '1', 'displaytitle': ''}).parquet, geodata/OrderedDict({'fulltext': 'Occupati e studenti suddivisi per sezione di censimento', 'fullurl': 'http:/51.15.160.236:8880/index.php?title=Occupati_e_studenti_suddivisi_per_sezione_di_censimento', 'namespace': 0, 'exists': '1', 'displaytitle': ''}).parquet
+2025-04-09 10:38:49,058 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 10:38:49,059 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 10:38:49,169 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 10:38:50,239 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 10:38:50,383 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 10:38:50,384 - geodata_processing - ERROR - Missing files for join: DatasetJoin(left_dataset=OrderedDict({'fulltext': 'Basi Censuarie ISTAT', 'fullurl': 'http://51.15.160.236:8880/index.php?title=Basi_Censuarie_ISTAT', 'namespace': 0, 'exists': '1', 'displaytitle': ''}), right_dataset=OrderedDict({'fulltext': 'Occupati e studenti suddivisi per sezione di censimento', 'fullurl': 'http://51.15.160.236:8880/index.php?title=Occupati_e_studenti_suddivisi_per_sezione_di_censimento', 'namespace': 0, 'exists': '1', 'displaytitle': ''}), left_column='SEZ', right_column='Sezione Censimento (2011)'), geodata/OrderedDict({'fulltext': 'Basi Censuarie ISTAT', 'fullurl': 'http:/51.15.160.236:8880/index.php?title=Basi_Censuarie_ISTAT', 'namespace': 0, 'exists': '1', 'displaytitle': ''}).parquet, geodata/OrderedDict({'fulltext': 'Occupati e studenti suddivisi per sezione di censimento', 'fullurl': 'http:/51.15.160.236:8880/index.php?title=Occupati_e_studenti_suddivisi_per_sezione_di_censimento', 'namespace': 0, 'exists': '1', 'displaytitle': ''}).parquet
+2025-04-09 10:39:25,944 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 10:39:25,944 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 10:39:26,048 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 10:39:33,434 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 10:39:33,435 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 10:39:33,552 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 10:39:34,633 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 10:39:34,989 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 10:39:34,990 - geodata_processing - ERROR - Missing files for join: DatasetJoin(left_dataset=OrderedDict({'fulltext': 'Basi Censuarie ISTAT', 'fullurl': 'http://51.15.160.236:8880/index.php?title=Basi_Censuarie_ISTAT', 'namespace': 0, 'exists': '1', 'displaytitle': ''}), right_dataset=OrderedDict({'fulltext': 'Occupati e studenti suddivisi per sezione di censimento', 'fullurl': 'http://51.15.160.236:8880/index.php?title=Occupati_e_studenti_suddivisi_per_sezione_di_censimento', 'namespace': 0, 'exists': '1', 'displaytitle': ''}), left_column='SEZ', right_column='Sezione Censimento (2011)'), geodata/OrderedDict({'fulltext': 'Basi Censuarie ISTAT', 'fullurl': 'http:/51.15.160.236:8880/index.php?title=Basi_Censuarie_ISTAT', 'namespace': 0, 'exists': '1', 'displaytitle': ''}).parquet, geodata/OrderedDict({'fulltext': 'Occupati e studenti suddivisi per sezione di censimento', 'fullurl': 'http:/51.15.160.236:8880/index.php?title=Occupati_e_studenti_suddivisi_per_sezione_di_censimento', 'namespace': 0, 'exists': '1', 'displaytitle': ''}).parquet
+2025-04-09 10:39:56,249 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 10:39:56,250 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 10:39:56,368 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 10:39:57,454 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 10:40:05,582 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 10:40:05,582 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 10:40:05,686 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 10:40:06,718 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 10:40:06,868 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 10:40:06,869 - geodata_processing - ERROR - Missing files for join: DatasetJoin(left_dataset=OrderedDict({'fulltext': 'Basi Censuarie ISTAT', 'fullurl': 'http://51.15.160.236:8880/index.php?title=Basi_Censuarie_ISTAT', 'namespace': 0, 'exists': '1', 'displaytitle': ''}), right_dataset=OrderedDict({'fulltext': 'Occupati e studenti suddivisi per sezione di censimento', 'fullurl': 'http://51.15.160.236:8880/index.php?title=Occupati_e_studenti_suddivisi_per_sezione_di_censimento', 'namespace': 0, 'exists': '1', 'displaytitle': ''}), left_column='SEZ', right_column='Sezione Censimento (2011)'), geodata/OrderedDict({'fulltext': 'Basi Censuarie ISTAT', 'fullurl': 'http:/51.15.160.236:8880/index.php?title=Basi_Censuarie_ISTAT', 'namespace': 0, 'exists': '1', 'displaytitle': ''}).parquet, geodata/OrderedDict({'fulltext': 'Occupati e studenti suddivisi per sezione di censimento', 'fullurl': 'http:/51.15.160.236:8880/index.php?title=Occupati_e_studenti_suddivisi_per_sezione_di_censimento', 'namespace': 0, 'exists': '1', 'displaytitle': ''}).parquet
+2025-04-09 10:40:27,456 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 10:40:27,456 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 10:40:27,552 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 10:40:28,617 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 10:40:28,756 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 10:42:58,510 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 10:42:58,510 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 10:42:58,615 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 10:42:59,784 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 10:43:19,587 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 10:43:19,588 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 10:43:19,696 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 10:43:20,846 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 10:43:25,239 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/rifter_arcstra_li/exports/parquet?lang=en&timezone=Europe/Berlin
+2025-04-09 10:43:26,018 - geodata_processing - ERROR - Unsupported format for https://www.istat.it/storage/cartografia/basi_territoriali/WGS_84_UTM/2011/R08_11_WGS84.zip
+2025-04-09 10:44:16,598 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 10:44:16,599 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 10:44:16,704 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 10:44:17,719 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 10:44:17,855 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 10:44:26,393 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/rifter_arcstra_li/exports/parquet?lang=en&timezone=Europe/Berlin
+2025-04-09 10:44:27,079 - geodata_processing - ERROR - Unsupported format for https://www.istat.it/storage/cartografia/basi_territoriali/WGS_84_UTM/2011/R08_11_WGS84.zip
+2025-04-09 10:45:37,894 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/rifter_civici_pt/exports/geojson?lang=it&timezone=Europe/Rome
+2025-04-09 10:45:39,261 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/lavori-pubblici/exports/geojson?lang=it&timezone=Europe/Berlin
+2025-04-09 10:45:42,094 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/rifter_nodi_pt/exports/geojson?lang=it&timezone=Europe/Rome
+2025-04-09 10:45:46,102 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/occupati_statistica/exports/json?lang=it&timezone=Europe/Berlin
+2025-04-09 10:45:46,434 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/gare/exports/json?lang=it&timezone=UTC
+2025-04-09 10:47:55,665 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/accuratezza-spire-anno-2019/exports/json?lang=it&timezone=UTC
+2025-04-09 10:49:07,634 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/accuratezza-spire-anno-2020/exports/json?lang=it&timezone=UTC
+2025-04-09 10:49:20,623 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/adempimenti-legge1902012-art1-comma-32/exports/json?lang=it&timezone=UTC
+2025-04-09 10:49:59,037 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/alberi-manutenzioni/exports/json?lang=it&timezone=UTC
+2025-04-09 10:49:59,282 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/aci-alimentazione-e-classificazione-euro-autoveicoli/exports/json?lang=it&timezone=UTC
+2025-04-09 10:50:04,974 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/rifter_arcstra_li/exports/json?lang=it&timezone=UTC
+2025-04-09 10:50:09,357 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/arredo/exports/json?lang=it&timezone=UTC
+2025-04-09 10:50:17,954 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/atti_di_concessione/exports/json?lang=it&timezone=UTC
+2025-04-09 10:50:18,798 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/attrezzature_ludiche_ginniche_sportive/exports/json?lang=it&timezone=UTC
+2025-04-09 10:50:20,289 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/autorizzazioni-paesaggistiche-rilasciate/exports/json?lang=it&timezone=UTC
+2025-04-09 10:50:20,614 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/autorizzazioni-sismiche/exports/json?lang=it&timezone=UTC
+2025-04-09 10:50:20,967 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/autovetture-circolanti-per-alimentazione/exports/json?lang=it&timezone=UTC
+2025-04-09 10:50:21,738 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/autovetture-e-motocicli-per-normativa-ecologica-euro/exports/json?lang=it&timezone=UTC
+2025-04-09 10:50:21,996 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/biblioteche-comunali-di-bologna/exports/json?lang=it&timezone=UTC
+2025-04-09 10:50:22,278 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/biciplan-il-piano-ciclistico-comunale/exports/json?lang=it&timezone=UTC
+2025-04-09 10:50:22,555 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/bike_noleggi/exports/json?lang=it&timezone=UTC
+2025-04-09 10:50:22,746 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/bilancio-ambientale-indicatori-contesto/exports/json?lang=it&timezone=UTC
+2025-04-09 10:50:23,191 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/bilancio-di-previsione-previsione-entrate/exports/json?lang=it&timezone=UTC
+2025-04-09 10:50:24,550 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/bilancio-di-previsione-previsione-uscite/exports/json?lang=it&timezone=UTC
+2025-04-09 10:50:24,766 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/bilancio-preivisionale-quadro-generale-entrate/exports/json?lang=it&timezone=UTC
+2025-04-09 10:50:25,099 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/quadro-generale-complessivo-uscite/exports/json?lang=it&timezone=UTC
+2025-04-09 10:50:25,626 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/bilancio-partecipativo/exports/json?lang=it&timezone=UTC
+2025-04-09 10:50:26,025 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/bilancio-partecipativo-2022-2023-votanti-per-quartiere-e-genere/exports/json?lang=it&timezone=UTC
+2025-04-09 10:50:26,331 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/bilancio-partecipativo-votanti-per-quartiere-e-genere/exports/json?lang=it&timezone=UTC
+2025-04-09 10:50:26,741 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/bologna-3d-open-repository/exports/json?lang=it&timezone=UTC
+2025-04-09 10:50:38,406 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/bologna-rilevazione-airbnb/exports/json?lang=it&timezone=UTC
+2025-04-09 10:51:42,925 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 10:51:42,926 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 10:51:43,046 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 10:51:46,710 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 10:51:46,710 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 10:51:46,816 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 10:51:47,882 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 10:51:48,030 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 10:51:51,698 - geodata_processing - ERROR - Error processing Archi Stradali: 'str' object has no attribute 'contains'
+2025-04-09 10:51:52,333 - geodata_processing - ERROR - Error processing Basi Censuarie ISTAT: 'str' object has no attribute 'contains'
+2025-04-09 10:52:10,846 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 10:52:10,846 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 10:52:10,952 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 10:52:12,006 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 10:52:12,140 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 10:52:17,481 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/rifter_arcstra_li/exports/parquet?lang=en&timezone=Europe/Berlin
+2025-04-09 10:52:17,916 - geodata_processing - ERROR - Unsupported format for https://www.istat.it/storage/cartografia/basi_territoriali/WGS_84_UTM/2011/R08_11_WGS84.zip
+2025-04-09 10:53:08,967 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/rifter_civici_pt/exports/geojson?lang=it&timezone=Europe/Rome
+2025-04-09 10:53:09,187 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/lavori-pubblici/exports/geojson?lang=it&timezone=Europe/Berlin
+2025-04-09 10:53:11,544 - geodata_processing - ERROR - Unsupported format for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/rifter_nodi_pt/exports/geojson?lang=it&timezone=Europe/Rome
+2025-04-09 10:53:12,546 - geodata_processing - INFO - Downloaded and converted Occupati e studenti suddivisi per sezione di censimento
+2025-04-09 10:53:12,800 - geodata_processing - ERROR - Error processing OpenData - 5 km Tecnocasa city run - 2 marzo 2025: Cannot write struct type 'properties' with no child field to Parquet. Consider adding a dummy child field.
+2025-04-09 10:55:42,460 - geodata_processing - INFO - Downloaded and converted OpenData - Accuratezza spire anno 2019
+2025-04-09 10:57:43,770 - geodata_processing - INFO - Downloaded and converted OpenData - Accuratezza spire anno 2020
+2025-04-09 10:57:55,757 - geodata_processing - ERROR - Error processing OpenData - Adempimenti Legge 190/2012 art.1, comma 32: Cannot save file into a non-existent directory: 'geodata/OpenData - Adempimenti Legge 190'
+2025-04-09 10:58:20,710 - geodata_processing - ERROR - Error processing OpenData - Alberi in manutenzione: Cannot write struct type 'properties' with no child field to Parquet. Consider adding a dummy child field.
+2025-04-09 10:58:21,356 - geodata_processing - INFO - Downloaded and converted OpenData - Alimentazione e classificazione ambientale (Euro) autoveicoli Bologna
+2025-04-09 10:58:23,946 - geodata_processing - ERROR - Error processing OpenData - Archi stradali: Cannot write struct type 'properties' with no child field to Parquet. Consider adding a dummy child field.
+2025-04-09 10:58:30,364 - geodata_processing - ERROR - Error processing OpenData - Arredo Urbano: Cannot write struct type 'properties' with no child field to Parquet. Consider adding a dummy child field.
+2025-04-09 10:58:36,519 - geodata_processing - INFO - Downloaded and converted OpenData - Atti di concessione
+2025-04-09 10:58:37,277 - geodata_processing - ERROR - Error processing OpenData - Attrezzature ludico ginniche sportive: Cannot write struct type 'properties' with no child field to Parquet. Consider adding a dummy child field.
+2025-04-09 10:58:39,437 - geodata_processing - INFO - Downloaded and converted OpenData - Autorizzazioni paesaggistiche
+2025-04-09 10:58:40,242 - geodata_processing - INFO - Downloaded and converted OpenData - Autorizzazioni sismiche rilasciate
+2025-04-09 10:58:40,857 - geodata_processing - INFO - Downloaded and converted OpenData - Autovetture circolanti per alimentazione
+2025-04-09 10:58:42,376 - geodata_processing - INFO - Downloaded and converted OpenData - Autovetture e motocicli per normativa ecologica (Euro)
+2025-04-09 10:58:42,662 - geodata_processing - ERROR - Error processing OpenData - Biblioteche comunali di Bologna: Cannot write struct type 'properties' with no child field to Parquet. Consider adding a dummy child field.
+2025-04-09 10:58:43,057 - geodata_processing - ERROR - Error processing OpenData - BICIPLAN-Il piano ciclistico comunale: ('cannot mix list and non-list, non-null values', 'Conversion failed for column geo_shape with type object')
+2025-04-09 10:58:43,321 - geodata_processing - INFO - Downloaded and converted OpenData - Bike sharing - Noleggi
+2025-04-09 10:58:43,572 - geodata_processing - INFO - Downloaded and converted OpenData - Bilancio ambientale - Indicatori di contesto
+2025-04-09 10:58:43,833 - geodata_processing - INFO - Downloaded and converted OpenData - Bilancio di Previsione - Previsione Entrate
+2025-04-09 10:58:45,236 - geodata_processing - INFO - Downloaded and converted OpenData - Bilancio di Previsione - Previsione Uscite
+2025-04-09 10:58:45,478 - geodata_processing - INFO - Downloaded and converted OpenData - Bilancio di Previsione - Quadro Generale Entrate
+2025-04-09 10:58:46,046 - geodata_processing - INFO - Downloaded and converted OpenData - Bilancio di Previsione - Quadro Generale Uscite
+2025-04-09 10:58:46,372 - geodata_processing - ERROR - Error processing OpenData - Bilancio partecipativo: ('cannot mix list and non-list, non-null values', 'Conversion failed for column geo_shape with type object')
+2025-04-09 10:58:46,674 - geodata_processing - INFO - Downloaded and converted OpenData - Bilancio partecipativo 2022-2023: votanti per quartiere e genere
+2025-04-09 10:58:46,975 - geodata_processing - INFO - Downloaded and converted OpenData - Bilancio partecipativo: votanti per quartiere e genere
+2025-04-09 10:58:47,532 - geodata_processing - INFO - Downloaded and converted OpenData - Bologna 3D Open Repository
+2025-04-09 10:58:48,466 - geodata_processing - INFO - Downloaded and converted OpenData - Bologna - rilevazione Airbnb
+2025-04-09 11:01:21,613 - geodata_processing - ERROR - Error processing OpenData - BolognaWifi - Affluenza: Cannot write struct type 'properties' with no child field to Parquet. Consider adding a dummy child field.
+2025-04-09 13:16:34,545 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 13:16:34,549 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 13:16:34,649 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 13:16:35,689 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 13:16:35,833 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 13:16:46,197 - geodata_processing - ERROR - Error processing Archi Stradali: 'collections.OrderedDict' object has no attribute 'lower'
+2025-04-09 13:16:46,846 - geodata_processing - ERROR - Error processing Basi Censuarie ISTAT: 'collections.OrderedDict' object has no attribute 'lower'
+2025-04-09 13:17:54,056 - geodata_processing - ERROR - Error processing Civici: 'collections.OrderedDict' object has no attribute 'lower'
+2025-04-09 13:17:54,410 - geodata_processing - ERROR - Error processing Lavori in corso: 'collections.OrderedDict' object has no attribute 'lower'
+2025-04-09 13:17:57,516 - geodata_processing - ERROR - Error processing Nodi Stradali: 'collections.OrderedDict' object has no attribute 'lower'
+2025-04-09 13:18:00,601 - geodata_processing - ERROR - Error processing Occupati e studenti suddivisi per sezione di censimento: 'collections.OrderedDict' object has no attribute 'lower'
+2025-04-09 13:18:01,086 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/gare/exports/json?lang=it&timezone=UTC
+2025-04-09 13:19:00,650 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 13:19:00,650 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 13:19:00,757 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 13:19:01,761 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 13:19:01,900 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 13:19:05,387 - geodata_processing - ERROR - Unsupported format OrderedDict({'fulltext': 'Parquet', 'fullurl': 'http://51.15.160.236:8880/index.php?title=Parquet', 'namespace': 0, 'exists': '', 'displaytitle': ''}) for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/rifter_arcstra_li/exports/parquet?lang=en&timezone=Europe/Berlin
+2025-04-09 13:19:06,108 - geodata_processing - ERROR - Unsupported format OrderedDict({'fulltext': 'Shapefile(zip)', 'fullurl': 'http://51.15.160.236:8880/index.php?title=Shapefile(zip)', 'namespace': 0, 'exists': '', 'displaytitle': ''}) for https://www.istat.it/storage/cartografia/basi_territoriali/WGS_84_UTM/2011/R08_11_WGS84.zip
+2025-04-09 13:20:12,272 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 13:20:12,272 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 13:20:12,366 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 13:20:13,373 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 13:20:13,505 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 13:20:26,489 - geodata_processing - ERROR - Unsupported format Parquet for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/rifter_arcstra_li/exports/parquet?lang=en&timezone=Europe/Berlin
+2025-04-09 13:20:27,812 - geodata_processing - ERROR - Unsupported format Shapefile(zip) for https://www.istat.it/storage/cartografia/basi_territoriali/WGS_84_UTM/2011/R08_11_WGS84.zip
+2025-04-09 13:21:53,375 - geodata_processing - INFO - Downloaded and converted Civici
+2025-04-09 13:21:53,819 - geodata_processing - INFO - Downloaded and converted Lavori in corso
+2025-04-09 13:21:56,940 - geodata_processing - INFO - Downloaded and converted Nodi Stradali
+2025-04-09 13:21:57,977 - geodata_processing - ERROR - Error processing Occupati e studenti suddivisi per sezione di censimento: name 'StringIO' is not defined
+2025-04-09 13:21:58,259 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/gare/exports/json?lang=it&timezone=UTC
+2025-04-09 13:24:16,121 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/accuratezza-spire-anno-2019/exports/json?lang=it&timezone=UTC
+2025-04-09 13:25:38,231 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/accuratezza-spire-anno-2020/exports/json?lang=it&timezone=UTC
+2025-04-09 13:25:40,888 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 13:25:40,888 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 13:25:40,997 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 13:25:42,061 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 13:25:42,197 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 13:29:01,806 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 13:29:01,807 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 13:29:01,924 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 13:29:03,012 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 13:29:03,153 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 13:29:07,979 - geodata_processing - INFO - Downloaded and converted Archi Stradali
+2025-04-09 13:29:08,822 - geodata_processing - ERROR - Error processing Basi Censuarie ISTAT: '/vsizip/geodata/temp.zip' not recognized as being in a supported file format. It might help to specify the correct driver explicitly by prefixing the file path with '<DRIVER>:', e.g. 'CSV:path'.
+2025-04-09 13:30:20,870 - geodata_processing - INFO - Downloaded and converted Civici
+2025-04-09 13:30:21,867 - geodata_processing - INFO - Downloaded and converted Lavori in corso
+2025-04-09 13:30:26,163 - geodata_processing - INFO - Downloaded and converted Nodi Stradali
+2025-04-09 13:30:32,790 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 13:30:32,790 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 13:30:32,899 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 13:30:33,972 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 13:30:34,107 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 13:30:51,273 - geodata_processing - INFO - Downloaded and converted Archi Stradali
+2025-04-09 13:30:51,741 - geodata_processing - INFO - Successfully logged result for Archi Stradali to wiki
+2025-04-09 13:30:54,048 - geodata_processing - INFO - Downloaded and converted Basi Censuarie ISTAT
+2025-04-09 13:30:54,371 - geodata_processing - INFO - Successfully logged result for Basi Censuarie ISTAT to wiki
+2025-04-09 13:32:08,154 - geodata_processing - INFO - Downloaded and converted Civici
+2025-04-09 13:32:08,526 - geodata_processing - INFO - Successfully logged result for Civici to wiki
+2025-04-09 13:32:09,267 - geodata_processing - INFO - Downloaded and converted Lavori in corso
+2025-04-09 13:32:09,581 - geodata_processing - INFO - Successfully logged result for Lavori in corso to wiki
+2025-04-09 13:32:13,168 - geodata_processing - INFO - Downloaded and converted Nodi Stradali
+2025-04-09 13:32:13,487 - geodata_processing - INFO - Successfully logged result for Nodi Stradali to wiki
+2025-04-09 13:32:23,549 - geodata_processing - ERROR - Error processing Occupati e studenti suddivisi per sezione di censimento: name 'StringIO' is not defined
+2025-04-09 13:32:23,859 - geodata_processing - INFO - Successfully logged result for Occupati e studenti suddivisi per sezione di censimento to wiki
+2025-04-09 13:32:24,042 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/gare/exports/json?lang=it&timezone=UTC
+2025-04-09 13:32:24,341 - geodata_processing - INFO - Successfully logged result for OpenData - 5 km Tecnocasa city run - 2 marzo 2025 to wiki
+2025-04-09 13:36:37,118 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/accuratezza-spire-anno-2019/exports/json?lang=it&timezone=UTC
+2025-04-09 13:36:37,525 - geodata_processing - INFO - Successfully logged result for OpenData - Accuratezza spire anno 2019 to wiki
+2025-04-09 13:39:01,009 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/accuratezza-spire-anno-2020/exports/json?lang=it&timezone=UTC
+2025-04-09 13:39:01,426 - geodata_processing - INFO - Successfully logged result for OpenData - Accuratezza spire anno 2020 to wiki
+2025-04-09 13:39:09,992 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/adempimenti-legge1902012-art1-comma-32/exports/json?lang=it&timezone=UTC
+2025-04-09 13:39:10,335 - geodata_processing - INFO - Successfully logged result for OpenData - Adempimenti Legge 190/2012 art.1, comma 32 to wiki
+2025-04-09 13:39:30,833 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/alberi-manutenzioni/exports/json?lang=it&timezone=UTC
+2025-04-09 13:39:31,214 - geodata_processing - INFO - Successfully logged result for OpenData - Alberi in manutenzione to wiki
+2025-04-09 13:39:31,452 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/aci-alimentazione-e-classificazione-euro-autoveicoli/exports/json?lang=it&timezone=UTC
+2025-04-09 13:39:31,800 - geodata_processing - INFO - Successfully logged result for OpenData - Alimentazione e classificazione ambientale (Euro) autoveicoli Bologna to wiki
+2025-04-09 13:39:35,372 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/rifter_arcstra_li/exports/json?lang=it&timezone=UTC
+2025-04-09 13:39:35,701 - geodata_processing - INFO - Successfully logged result for OpenData - Archi stradali to wiki
+2025-04-09 13:39:45,697 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/arredo/exports/json?lang=it&timezone=UTC
+2025-04-09 13:39:46,022 - geodata_processing - INFO - Successfully logged result for OpenData - Arredo Urbano to wiki
+2025-04-09 13:39:53,869 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/atti_di_concessione/exports/json?lang=it&timezone=UTC
+2025-04-09 13:39:54,210 - geodata_processing - INFO - Successfully logged result for OpenData - Atti di concessione to wiki
+2025-04-09 13:39:54,781 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/attrezzature_ludiche_ginniche_sportive/exports/json?lang=it&timezone=UTC
+2025-04-09 13:39:55,105 - geodata_processing - INFO - Successfully logged result for OpenData - Attrezzature ludico ginniche sportive to wiki
+2025-04-09 13:39:56,780 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/autorizzazioni-paesaggistiche-rilasciate/exports/json?lang=it&timezone=UTC
+2025-04-09 13:39:57,130 - geodata_processing - INFO - Successfully logged result for OpenData - Autorizzazioni paesaggistiche to wiki
+2025-04-09 13:39:57,522 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/autorizzazioni-sismiche/exports/json?lang=it&timezone=UTC
+2025-04-09 13:39:57,855 - geodata_processing - INFO - Successfully logged result for OpenData - Autorizzazioni sismiche rilasciate to wiki
+2025-04-09 13:39:58,429 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/autovetture-circolanti-per-alimentazione/exports/json?lang=it&timezone=UTC
+2025-04-09 13:39:58,763 - geodata_processing - INFO - Successfully logged result for OpenData - Autovetture circolanti per alimentazione to wiki
+2025-04-09 13:39:59,056 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/autovetture-e-motocicli-per-normativa-ecologica-euro/exports/json?lang=it&timezone=UTC
+2025-04-09 13:39:59,385 - geodata_processing - INFO - Successfully logged result for OpenData - Autovetture e motocicli per normativa ecologica (Euro) to wiki
+2025-04-09 13:39:59,599 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/biblioteche-comunali-di-bologna/exports/json?lang=it&timezone=UTC
+2025-04-09 13:39:59,985 - geodata_processing - INFO - Successfully logged result for OpenData - Biblioteche comunali di Bologna to wiki
+2025-04-09 13:40:00,477 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/biciplan-il-piano-ciclistico-comunale/exports/json?lang=it&timezone=UTC
+2025-04-09 13:40:00,806 - geodata_processing - INFO - Successfully logged result for OpenData - BICIPLAN-Il piano ciclistico comunale to wiki
+2025-04-09 13:40:01,312 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/bike_noleggi/exports/json?lang=it&timezone=UTC
+2025-04-09 13:40:01,661 - geodata_processing - INFO - Successfully logged result for OpenData - Bike sharing - Noleggi to wiki
+2025-04-09 13:40:02,120 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/bilancio-ambientale-indicatori-contesto/exports/json?lang=it&timezone=UTC
+2025-04-09 13:40:02,451 - geodata_processing - INFO - Successfully logged result for OpenData - Bilancio ambientale - Indicatori di contesto to wiki
+2025-04-09 13:40:03,184 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/bilancio-di-previsione-previsione-entrate/exports/json?lang=it&timezone=UTC
+2025-04-09 13:40:03,531 - geodata_processing - INFO - Successfully logged result for OpenData - Bilancio di Previsione - Previsione Entrate to wiki
+2025-04-09 13:40:05,041 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/bilancio-di-previsione-previsione-uscite/exports/json?lang=it&timezone=UTC
+2025-04-09 13:40:05,378 - geodata_processing - INFO - Successfully logged result for OpenData - Bilancio di Previsione - Previsione Uscite to wiki
+2025-04-09 13:40:05,779 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/bilancio-preivisionale-quadro-generale-entrate/exports/json?lang=it&timezone=UTC
+2025-04-09 13:40:06,113 - geodata_processing - INFO - Successfully logged result for OpenData - Bilancio di Previsione - Quadro Generale Entrate to wiki
+2025-04-09 13:40:07,783 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/quadro-generale-complessivo-uscite/exports/json?lang=it&timezone=UTC
+2025-04-09 13:40:08,170 - geodata_processing - INFO - Successfully logged result for OpenData - Bilancio di Previsione - Quadro Generale Uscite to wiki
+2025-04-09 13:40:08,649 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/bilancio-partecipativo/exports/json?lang=it&timezone=UTC
+2025-04-09 13:40:09,193 - geodata_processing - INFO - Successfully logged result for OpenData - Bilancio partecipativo to wiki
+2025-04-09 13:40:09,416 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/bilancio-partecipativo-2022-2023-votanti-per-quartiere-e-genere/exports/json?lang=it&timezone=UTC
+2025-04-09 13:40:09,759 - geodata_processing - INFO - Successfully logged result for OpenData - Bilancio partecipativo 2022-2023: votanti per quartiere e genere to wiki
+2025-04-09 13:40:10,126 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/bilancio-partecipativo-votanti-per-quartiere-e-genere/exports/json?lang=it&timezone=UTC
+2025-04-09 13:40:10,451 - geodata_processing - INFO - Successfully logged result for OpenData - Bilancio partecipativo: votanti per quartiere e genere to wiki
+2025-04-09 13:40:11,203 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/bologna-3d-open-repository/exports/json?lang=it&timezone=UTC
+2025-04-09 13:40:11,542 - geodata_processing - INFO - Successfully logged result for OpenData - Bologna 3D Open Repository to wiki
+2025-04-09 13:40:13,642 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/bologna-rilevazione-airbnb/exports/json?lang=it&timezone=UTC
+2025-04-09 13:40:13,986 - geodata_processing - INFO - Successfully logged result for OpenData - Bologna - rilevazione Airbnb to wiki
+2025-04-09 13:42:12,927 - geodata_processing - ERROR - Unsupported format None for https://opendata.comune.bologna.it/api/explore/v2.1/catalog/datasets/iperbole-wifi-affluenza/exports/json?lang=it&timezone=UTC
+2025-04-09 13:42:13,345 - geodata_processing - INFO - Successfully logged result for OpenData - BolognaWifi - Affluenza to wiki
+2025-04-09 13:45:17,067 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 13:45:17,067 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 13:45:17,178 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 13:45:18,325 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 13:45:18,477 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 13:45:18,478 - geodata_processing - ERROR - Missing files for join: DatasetJoin(left_dataset=OrderedDict({'fulltext': 'Basi Censuarie ISTAT', 'fullurl': 'http://51.15.160.236:8880/index.php?title=Basi_Censuarie_ISTAT', 'namespace': 0, 'exists': '1', 'displaytitle': ''}), right_dataset=OrderedDict({'fulltext': 'Occupati e studenti suddivisi per sezione di censimento', 'fullurl': 'http://51.15.160.236:8880/index.php?title=Occupati_e_studenti_suddivisi_per_sezione_di_censimento', 'namespace': 0, 'exists': '1', 'displaytitle': ''}), left_column='SEZ', right_column='Sezione Censimento (2011)'), geodata/OrderedDict({'fulltext': 'Basi Censuarie ISTAT', 'fullurl': 'http:/51.15.160.236:8880/index.php?title=Basi_Censuarie_ISTAT', 'namespace': 0, 'exists': '1', 'displaytitle': ''}).parquet, geodata/OrderedDict({'fulltext': 'Occupati e studenti suddivisi per sezione di censimento', 'fullurl': 'http:/51.15.160.236:8880/index.php?title=Occupati_e_studenti_suddivisi_per_sezione_di_censimento', 'namespace': 0, 'exists': '1', 'displaytitle': ''}).parquet
+2025-04-09 13:46:04,682 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 13:46:04,683 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 13:46:04,799 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 13:46:05,888 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 13:46:06,032 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 13:46:06,033 - geodata_processing - ERROR - Missing files for join: geodata/OrderedDict({'fulltext': 'Basi Censuarie ISTAT', 'fullurl': 'http:/51.15.160.236:8880/index.php?title=Basi_Censuarie_ISTAT', 'namespace': 0, 'exists': '1', 'displaytitle': ''}).parquet, geodata/OrderedDict({'fulltext': 'Occupati e studenti suddivisi per sezione di censimento', 'fullurl': 'http:/51.15.160.236:8880/index.php?title=Occupati_e_studenti_suddivisi_per_sezione_di_censimento', 'namespace': 0, 'exists': '1', 'displaytitle': ''}).parquet
+2025-04-09 13:46:32,466 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 13:46:32,467 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 13:46:32,577 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 13:46:33,644 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 13:46:33,792 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 13:47:04,365 - geodata_processing - ERROR - Error processing join: 'Sezione Censimento (2011)'
+2025-04-09 13:49:29,288 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 13:49:29,288 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 13:49:29,400 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 13:49:30,604 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 13:49:30,747 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 13:49:31,021 - geodata_processing - ERROR - Error processing join: 'Sezione Censimento (2011)'
+2025-04-09 13:50:09,666 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 13:50:09,667 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 13:50:09,790 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 13:50:11,125 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 13:50:11,302 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 13:50:11,557 - geodata_processing - ERROR - Error processing join: You are trying to merge on float64 and object columns for key 'SEZ'. If you wish to proceed you should use pd.concat
+2025-04-09 13:51:32,709 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 13:51:32,709 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 13:51:32,815 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 13:51:33,926 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 13:51:34,275 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 13:51:34,571 - geodata_processing - INFO - Left column 'SEZ' type: object
+2025-04-09 13:51:34,571 - geodata_processing - INFO - Right column 'sez2011' type: object
+2025-04-09 13:51:34,591 - geodata_processing - ERROR - Error processing join: Cannot save file into a non-existent directory: 'geodata/OrderedDict({'fulltext': 'Basi Censuarie ISTAT', 'fullurl': 'http:/51.15.160.236:8880/index.php?title=Basi_Censuarie_ISTAT', 'namespace': 0, 'exists': '1', 'displaytitle': ''})_OrderedDict({'fulltext': 'Occupati e studenti suddivisi per sezione di censimento', 'fullurl': 'http:/51.15.160.236:8880'
+2025-04-09 13:52:25,106 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 13:52:25,106 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 13:52:25,214 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 13:52:26,317 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 13:52:26,462 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 13:52:26,733 - geodata_processing - INFO - Left column 'SEZ' type: object
+2025-04-09 13:52:26,733 - geodata_processing - INFO - Right column 'sez2011' type: object
+2025-04-09 13:52:26,745 - geodata_processing - INFO - Processed join: Basi Censuarie ISTAT + Occupati e studenti suddivisi per sezione di censimento
+2025-04-09 14:01:53,912 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 14:01:53,913 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 14:01:54,021 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 14:01:55,036 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 14:01:55,173 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 14:01:55,675 - geodata_processing - ERROR - Error processing join: Missing geo metadata in Parquet/Feather file.
+            Use pandas.read_parquet/read_feather() instead.
+2025-04-09 14:02:59,108 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 14:02:59,108 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 14:02:59,219 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 14:03:00,302 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 14:03:00,445 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 14:03:00,795 - geodata_processing - ERROR - Error processing join: Missing geo metadata in Parquet/Feather file.
+            Use pandas.read_parquet/read_feather() instead.
+2025-04-09 14:03:20,339 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 14:03:20,339 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 14:03:20,442 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 14:03:21,461 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 14:03:21,602 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 14:03:25,535 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:03:25,981 - geodata_processing - INFO - Successfully logged result for Archi Stradali to wiki
+2025-04-09 14:03:27,917 - geodata_processing - INFO - Loaded Shapefile with CRS: EPSG:32632
+2025-04-09 14:03:27,941 - geodata_processing - INFO - Geometry column type: geometry
+2025-04-09 14:03:27,949 - geodata_processing - INFO - Number of valid geometries: 38603
+2025-04-09 14:03:28,341 - geodata_processing - INFO - Saved GeoParquet file to geodata/Basi Censuarie ISTAT.parquet
+2025-04-09 14:03:28,341 - geodata_processing - INFO - Downloaded and converted Basi Censuarie ISTAT
+2025-04-09 14:03:28,668 - geodata_processing - INFO - Successfully logged result for Basi Censuarie ISTAT to wiki
+2025-04-09 14:04:19,658 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 14:04:19,659 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 14:04:19,783 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 14:04:21,327 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 14:04:21,503 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 14:04:21,868 - geodata_processing - ERROR - Error processing join: Missing geo metadata in Parquet/Feather file.
+            Use pandas.read_parquet/read_feather() instead.
+2025-04-09 14:06:02,255 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 14:06:02,255 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 14:06:02,363 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 14:06:03,405 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 14:06:03,544 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 14:06:12,053 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:06:12,483 - geodata_processing - INFO - Successfully logged result for Archi Stradali to wiki
+2025-04-09 14:06:14,404 - geodata_processing - INFO - Loaded Shapefile with CRS: EPSG:32632
+2025-04-09 14:06:14,421 - geodata_processing - INFO - Geometry column type: geometry
+2025-04-09 14:06:14,428 - geodata_processing - INFO - Number of valid geometries: 38603
+2025-04-09 14:06:14,809 - geodata_processing - INFO - Saved GeoParquet file to geodata/Basi Censuarie ISTAT.parquet
+2025-04-09 14:06:14,810 - geodata_processing - INFO - Downloaded and converted Basi Censuarie ISTAT
+2025-04-09 14:06:15,096 - geodata_processing - INFO - Successfully logged result for Basi Censuarie ISTAT to wiki
+2025-04-09 14:07:45,639 - geodata_processing - INFO - Loaded GeoJSON with CRS: EPSG:4326
+2025-04-09 14:07:45,641 - geodata_processing - INFO - Geometry column type: geometry
+2025-04-09 14:07:45,646 - geodata_processing - INFO - Number of valid geometries: 77602
+2025-04-09 14:07:46,192 - geodata_processing - INFO - Saved GeoParquet file to geodata/Civici.parquet
+2025-04-09 14:07:46,193 - geodata_processing - INFO - Downloaded and converted Civici
+2025-04-09 14:07:46,563 - geodata_processing - INFO - Successfully logged result for Civici to wiki
+2025-04-09 14:07:47,050 - geodata_processing - INFO - Loaded GeoJSON with CRS: EPSG:4326
+2025-04-09 14:07:47,051 - geodata_processing - INFO - Geometry column type: geometry
+2025-04-09 14:07:47,052 - geodata_processing - INFO - Number of valid geometries: 39
+2025-04-09 14:07:47,059 - geodata_processing - INFO - Saved GeoParquet file to geodata/Lavori in corso.parquet
+2025-04-09 14:07:47,060 - geodata_processing - INFO - Downloaded and converted Lavori in corso
+2025-04-09 14:07:47,357 - geodata_processing - INFO - Successfully logged result for Lavori in corso to wiki
+2025-04-09 14:07:48,631 - geodata_processing - INFO - Loaded GeoJSON with CRS: EPSG:4326
+2025-04-09 14:07:48,631 - geodata_processing - INFO - Geometry column type: geometry
+2025-04-09 14:07:48,632 - geodata_processing - INFO - Number of valid geometries: 6059
+2025-04-09 14:07:48,646 - geodata_processing - INFO - Saved GeoParquet file to geodata/Nodi Stradali.parquet
+2025-04-09 14:07:48,646 - geodata_processing - INFO - Downloaded and converted Nodi Stradali
+2025-04-09 14:07:49,083 - geodata_processing - INFO - Successfully logged result for Nodi Stradali to wiki
+2025-04-09 14:07:49,923 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:07:50,218 - geodata_processing - INFO - Successfully logged result for Occupati e studenti suddivisi per sezione di censimento to wiki
+2025-04-09 14:07:50,496 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:07:50,785 - geodata_processing - INFO - Successfully logged result for OpenData - 5 km Tecnocasa city run - 2 marzo 2025 to wiki
+2025-04-09 14:09:30,892 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:09:31,261 - geodata_processing - INFO - Successfully logged result for OpenData - Accuratezza spire anno 2019 to wiki
+2025-04-09 14:09:36,683 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 14:09:36,684 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 14:09:36,792 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 14:09:37,823 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 14:09:37,961 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 14:09:38,599 - geodata_processing - ERROR - Error processing join: Missing geo metadata in Parquet/Feather file.
+            Use pandas.read_parquet/read_feather() instead.
+2025-04-09 14:11:59,069 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 14:11:59,069 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 14:11:59,177 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 14:12:00,191 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 14:12:00,319 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 14:12:00,677 - geodata_processing - ERROR - Error processing join: Missing geo metadata in Parquet/Feather file.
+            Use pandas.read_parquet/read_feather() instead.
+2025-04-09 14:12:23,605 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-09 14:12:23,605 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-09 14:12:23,713 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-09 14:12:24,764 - geodata_processing - INFO - Found 268 datasets
+2025-04-09 14:12:24,895 - geodata_processing - INFO - Found 1 join configurations
+2025-04-09 14:12:32,369 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:12:32,797 - geodata_processing - INFO - Successfully logged result for Archi Stradali to wiki
+2025-04-09 14:12:34,808 - geodata_processing - INFO - Loaded Shapefile with CRS: EPSG:32632
+2025-04-09 14:12:34,829 - geodata_processing - INFO - Geometry column type: geometry
+2025-04-09 14:12:34,839 - geodata_processing - INFO - Number of valid geometries: 38603
+2025-04-09 14:12:35,268 - geodata_processing - INFO - Saved GeoParquet file to geodata/Basi Censuarie ISTAT.parquet
+2025-04-09 14:12:35,269 - geodata_processing - INFO - Downloaded and converted Basi Censuarie ISTAT
+2025-04-09 14:12:35,579 - geodata_processing - INFO - Successfully logged result for Basi Censuarie ISTAT to wiki
+2025-04-09 14:13:44,958 - geodata_processing - INFO - Loaded GeoJSON with CRS: EPSG:4326
+2025-04-09 14:13:44,960 - geodata_processing - INFO - Geometry column type: geometry
+2025-04-09 14:13:44,965 - geodata_processing - INFO - Number of valid geometries: 77602
+2025-04-09 14:13:45,492 - geodata_processing - INFO - Saved GeoParquet file to geodata/Civici.parquet
+2025-04-09 14:13:45,492 - geodata_processing - INFO - Downloaded and converted Civici
+2025-04-09 14:13:45,864 - geodata_processing - INFO - Successfully logged result for Civici to wiki
+2025-04-09 14:13:46,266 - geodata_processing - INFO - Loaded GeoJSON with CRS: EPSG:4326
+2025-04-09 14:13:46,266 - geodata_processing - INFO - Geometry column type: geometry
+2025-04-09 14:13:46,267 - geodata_processing - INFO - Number of valid geometries: 39
+2025-04-09 14:13:46,272 - geodata_processing - INFO - Saved GeoParquet file to geodata/Lavori in corso.parquet
+2025-04-09 14:13:46,273 - geodata_processing - INFO - Downloaded and converted Lavori in corso
+2025-04-09 14:13:46,554 - geodata_processing - INFO - Successfully logged result for Lavori in corso to wiki
+2025-04-09 14:13:48,613 - geodata_processing - INFO - Loaded GeoJSON with CRS: EPSG:4326
+2025-04-09 14:13:48,613 - geodata_processing - INFO - Geometry column type: geometry
+2025-04-09 14:13:48,614 - geodata_processing - INFO - Number of valid geometries: 6059
+2025-04-09 14:13:48,627 - geodata_processing - INFO - Saved GeoParquet file to geodata/Nodi Stradali.parquet
+2025-04-09 14:13:48,627 - geodata_processing - INFO - Downloaded and converted Nodi Stradali
+2025-04-09 14:13:48,945 - geodata_processing - INFO - Successfully logged result for Nodi Stradali to wiki
+2025-04-09 14:13:49,909 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:13:50,222 - geodata_processing - INFO - Successfully logged result for Occupati e studenti suddivisi per sezione di censimento to wiki
+2025-04-09 14:13:50,415 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:13:50,723 - geodata_processing - INFO - Successfully logged result for OpenData - 5 km Tecnocasa city run - 2 marzo 2025 to wiki
+2025-04-09 14:16:13,115 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:16:13,479 - geodata_processing - INFO - Successfully logged result for OpenData - Accuratezza spire anno 2019 to wiki
+2025-04-09 14:17:05,732 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:17:06,065 - geodata_processing - INFO - Successfully logged result for OpenData - Accuratezza spire anno 2020 to wiki
+2025-04-09 14:17:12,539 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:17:12,868 - geodata_processing - INFO - Successfully logged result for OpenData - Adempimenti Legge 190/2012 art.1, comma 32 to wiki
+2025-04-09 14:17:57,338 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:17:57,676 - geodata_processing - INFO - Successfully logged result for OpenData - Alberi in manutenzione to wiki
+2025-04-09 14:17:57,982 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:17:58,296 - geodata_processing - INFO - Successfully logged result for OpenData - Alimentazione e classificazione ambientale (Euro) autoveicoli Bologna to wiki
+2025-04-09 14:18:00,602 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:18:00,902 - geodata_processing - INFO - Successfully logged result for OpenData - Archi stradali to wiki
+2025-04-09 14:18:10,031 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:18:10,353 - geodata_processing - INFO - Successfully logged result for OpenData - Arredo Urbano to wiki
+2025-04-09 14:18:54,722 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:18:55,045 - geodata_processing - INFO - Successfully logged result for OpenData - Atti di concessione to wiki
+2025-04-09 14:18:55,614 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:18:55,907 - geodata_processing - INFO - Successfully logged result for OpenData - Attrezzature ludico ginniche sportive to wiki
+2025-04-09 14:18:56,994 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:18:57,314 - geodata_processing - INFO - Successfully logged result for OpenData - Autorizzazioni paesaggistiche to wiki
+2025-04-09 14:18:57,571 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:18:57,868 - geodata_processing - INFO - Successfully logged result for OpenData - Autorizzazioni sismiche rilasciate to wiki
+2025-04-09 14:18:58,329 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:18:58,623 - geodata_processing - INFO - Successfully logged result for OpenData - Autovetture circolanti per alimentazione to wiki
+2025-04-09 14:18:59,345 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:18:59,667 - geodata_processing - INFO - Successfully logged result for OpenData - Autovetture e motocicli per normativa ecologica (Euro) to wiki
+2025-04-09 14:18:59,993 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:19:00,314 - geodata_processing - INFO - Successfully logged result for OpenData - Biblioteche comunali di Bologna to wiki
+2025-04-09 14:19:00,857 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:19:01,176 - geodata_processing - INFO - Successfully logged result for OpenData - BICIPLAN-Il piano ciclistico comunale to wiki
+2025-04-09 14:19:01,667 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:19:01,973 - geodata_processing - INFO - Successfully logged result for OpenData - Bike sharing - Noleggi to wiki
+2025-04-09 14:19:02,334 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:19:02,636 - geodata_processing - INFO - Successfully logged result for OpenData - Bilancio ambientale - Indicatori di contesto to wiki
+2025-04-09 14:19:03,061 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:19:03,381 - geodata_processing - INFO - Successfully logged result for OpenData - Bilancio di Previsione - Previsione Entrate to wiki
+2025-04-09 14:19:04,722 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:19:05,054 - geodata_processing - INFO - Successfully logged result for OpenData - Bilancio di Previsione - Previsione Uscite to wiki
+2025-04-09 14:19:06,002 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:19:06,325 - geodata_processing - INFO - Successfully logged result for OpenData - Bilancio di Previsione - Quadro Generale Entrate to wiki
+2025-04-09 14:19:06,559 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:19:06,863 - geodata_processing - INFO - Successfully logged result for OpenData - Bilancio di Previsione - Quadro Generale Uscite to wiki
+2025-04-09 14:19:07,316 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:19:07,611 - geodata_processing - INFO - Successfully logged result for OpenData - Bilancio partecipativo to wiki
+2025-04-09 14:19:08,142 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:19:08,464 - geodata_processing - INFO - Successfully logged result for OpenData - Bilancio partecipativo 2022-2023: votanti per quartiere e genere to wiki
+2025-04-09 14:19:08,893 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:19:09,204 - geodata_processing - INFO - Successfully logged result for OpenData - Bilancio partecipativo: votanti per quartiere e genere to wiki
+2025-04-09 14:19:09,808 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:19:10,137 - geodata_processing - INFO - Successfully logged result for OpenData - Bologna 3D Open Repository to wiki
+2025-04-09 14:19:12,914 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:19:13,262 - geodata_processing - INFO - Successfully logged result for OpenData - Bologna - rilevazione Airbnb to wiki
+2025-04-09 14:21:25,921 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:21:26,289 - geodata_processing - INFO - Successfully logged result for OpenData - BolognaWifi - Affluenza to wiki
+2025-04-09 14:27:04,829 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:27:05,232 - geodata_processing - INFO - Successfully logged result for OpenData - BolognaWifi - Affluenza (Storico 2024) to wiki
+2025-04-09 14:28:18,797 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:28:19,155 - geodata_processing - INFO - Successfully logged result for OpenData - BolognaWifi - Affollamento to wiki
+2025-04-09 14:36:58,328 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:36:58,713 - geodata_processing - INFO - Successfully logged result for OpenData - BolognaWifi - Affollamento (Storico 2021) to wiki
+2025-04-09 14:42:24,610 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:42:25,017 - geodata_processing - INFO - Successfully logged result for OpenData - BolognaWifi - Affollamento (Storico 2022) to wiki
+2025-04-09 14:42:25,292 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:42:25,634 - geodata_processing - INFO - Successfully logged result for OpenData - BolognaWiFi - elenco aree segnale to wiki
+2025-04-09 14:42:25,844 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:42:26,192 - geodata_processing - INFO - Successfully logged result for OpenData - BolognaWiFi - elenco hot spot to wiki
+2025-04-09 14:45:31,783 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:45:32,160 - geodata_processing - INFO - Successfully logged result for OpenData - BolognaWiFi - Matrice Spostamenti (Storico 2021 - 2022 - 2023) to wiki
+2025-04-09 14:45:34,905 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:45:35,210 - geodata_processing - INFO - Successfully logged result for OpenData - Buoni spesa erogati to wiki
+2025-04-09 14:45:42,671 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:45:42,979 - geodata_processing - INFO - Successfully logged result for OpenData - Cammini e Percorsi to wiki
+2025-04-09 14:45:43,346 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:45:43,655 - geodata_processing - INFO - Successfully logged result for OpenData - Cancellati dall'anagrafe per zona - serie storica to wiki
+2025-04-09 14:45:43,953 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:45:44,266 - geodata_processing - INFO - Successfully logged result for OpenData - Car sharing - Noleggi to wiki
+2025-04-09 14:45:51,666 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:45:51,998 - geodata_processing - INFO - Successfully logged result for OpenData - CARTA TECNICA COMUNALE - Aree stradali to wiki
+2025-04-09 14:45:53,735 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:45:54,049 - geodata_processing - INFO - Successfully logged result for OpenData - CARTA TECNICA COMUNALE - Cigli superiori scarpate to wiki
+2025-04-09 14:46:18,493 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:46:18,817 - geodata_processing - INFO - Successfully logged result for OpenData - CARTA TECNICA COMUNALE - Divisioni del terreno to wiki
+2025-04-09 14:46:56,990 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:46:57,321 - geodata_processing - INFO - Successfully logged result for OpenData - CARTA TECNICA COMUNALE - Edifici volumetrici to wiki
+2025-04-09 14:47:07,630 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:47:07,950 - geodata_processing - INFO - Successfully logged result for OpenData - CARTA TECNICA COMUNALE - Filari siepi to wiki
+2025-04-09 14:47:17,009 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:47:17,328 - geodata_processing - INFO - Successfully logged result for OpenData - CARTA TECNICA COMUNALE - Marciapiedi to wiki
+2025-04-09 14:47:37,481 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:47:37,819 - geodata_processing - INFO - Successfully logged result for OpenData - CARTA TECNICA COMUNALE - Punti quotati to wiki
+2025-04-09 14:47:38,350 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:47:38,661 - geodata_processing - INFO - Successfully logged result for OpenData - CARTA TECNICA COMUNALE - Reti idriche to wiki
+2025-04-09 14:47:44,954 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:47:45,259 - geodata_processing - INFO - Successfully logged result for OpenData - CARTA TECNICA COMUNALE - Simboli edifici volumetrici to wiki
+2025-04-09 14:47:45,572 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:47:45,900 - geodata_processing - INFO - Successfully logged result for OpenData - Case di Quartiere di Bologna to wiki
+2025-04-09 14:47:46,355 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:47:46,652 - geodata_processing - INFO - Successfully logged result for OpenData - Centroidi aree verdi e individuzione ingressi per le maggiori aree verdi to wiki
+2025-04-09 14:47:46,951 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:47:47,272 - geodata_processing - INFO - Successfully logged result for OpenData - Ciclovia del Sole - percorso to wiki
+2025-04-09 14:48:13,846 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:48:14,288 - geodata_processing - INFO - Successfully logged result for OpenData - CILA-comunicazioni inizio lavori to wiki
+2025-04-09 14:48:14,921 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:48:15,272 - geodata_processing - INFO - Successfully logged result for OpenData - Città 30 - Area interessata dal "Piano Particolareggiato per l'implementazione della Città 30" to wiki
+2025-04-09 14:49:17,875 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:49:18,208 - geodata_processing - INFO - Successfully logged result for OpenData - Clima - Dati Sensori 2021 (II Sem) to wiki
+2025-04-09 14:49:18,768 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:49:19,078 - geodata_processing - INFO - Successfully logged result for OpenData - Cresce Bologna - Progetti PNRR, PON Metro 2014-2020 e FSC to wiki
+2025-04-09 14:49:20,344 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:49:20,651 - geodata_processing - INFO - Successfully logged result for OpenData - Dati centri di raccolta to wiki
+2025-04-09 14:49:36,882 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:49:37,219 - geodata_processing - INFO - Successfully logged result for OpenData - Dati OpenStreetMap per studio "Città in 15 minuti" to wiki
+2025-04-09 14:49:45,455 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:49:45,775 - geodata_processing - INFO - Successfully logged result for OpenData - Delibere di Giunta to wiki
+2025-04-09 14:49:46,936 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:49:47,246 - geodata_processing - INFO - Successfully logged result for OpenData - Delibere e O.d.G. del Consiglio Comunale to wiki
+2025-04-09 14:49:47,516 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:49:47,823 - geodata_processing - INFO - Successfully logged result for OpenData - Dettaglio di servizio di prestito delle Biblioteche Comunali to wiki
+2025-04-09 14:49:48,067 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:49:48,374 - geodata_processing - INFO - Successfully logged result for OpenData - Disponibilità Parcheggi (VIGENTE) to wiki
+2025-04-09 14:51:59,212 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:51:59,604 - geodata_processing - INFO - Successfully logged result for OpenData - Dispositivi conta-bici to wiki
+2025-04-09 14:52:04,277 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:52:04,622 - geodata_processing - INFO - Successfully logged result for OpenData - Domande di attualità a risposta orale to wiki
+2025-04-09 14:52:06,288 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:52:06,628 - geodata_processing - INFO - Successfully logged result for OpenData - Domande di attualità a risposta scritta to wiki
+2025-04-09 14:52:07,089 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:52:07,429 - geodata_processing - INFO - Successfully logged result for OpenData - Domande di iscrizione ai servizi educativi-scolastici to wiki
+2025-04-09 14:52:21,471 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:52:21,808 - geodata_processing - INFO - Successfully logged result for OpenData - Edifici particellari to wiki
+2025-04-09 14:52:22,294 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:52:22,622 - geodata_processing - INFO - Successfully logged result for OpenData - Elenco delle scuole to wiki
+2025-04-09 14:52:22,954 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:52:23,292 - geodata_processing - INFO - Successfully logged result for OpenData - Elenco esercizi agricoltura to wiki
+2025-04-09 14:52:25,061 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:52:25,393 - geodata_processing - INFO - Successfully logged result for OpenData - Elenco esercizi attività ricettive to wiki
+2025-04-09 14:52:25,665 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:52:25,973 - geodata_processing - INFO - Successfully logged result for OpenData - Elenco esercizi autoriparatori to wiki
+2025-04-09 14:52:26,346 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:52:26,679 - geodata_processing - INFO - Successfully logged result for OpenData - Elenco esercizi distributori carburanti to wiki
+2025-04-09 14:52:29,401 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:52:29,737 - geodata_processing - INFO - Successfully logged result for OpenData - Elenco esercizi laboratori to wiki
+2025-04-09 14:52:31,103 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:52:31,453 - geodata_processing - INFO - Successfully logged result for OpenData - Elenco esercizi polizia amministrativa to wiki
+2025-04-09 14:52:31,689 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:52:32,002 - geodata_processing - INFO - Successfully logged result for OpenData - Elenco esercizi pubblico spettacolo to wiki
+2025-04-09 14:52:35,216 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:52:35,545 - geodata_processing - INFO - Successfully logged result for OpenData - Elenco esercizi servizi alla persona to wiki
+2025-04-09 14:52:41,837 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:52:42,171 - geodata_processing - INFO - Successfully logged result for OpenData - Elenco esercizi somministrazioni to wiki
+2025-04-09 14:52:43,248 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:52:43,661 - geodata_processing - INFO - Successfully logged result for OpenData - Elenco impianti - antenne telefonia to wiki
+2025-04-09 14:52:43,885 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:52:44,219 - geodata_processing - INFO - Successfully logged result for OpenData - Elenco impianti - antenne TV e altre antenne to wiki
+2025-04-09 14:52:50,260 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:52:50,582 - geodata_processing - INFO - Successfully logged result for OpenData - Elenco impianti - ascensori-montacarichi to wiki
+2025-04-09 14:52:50,995 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:52:51,322 - geodata_processing - INFO - Successfully logged result for OpenData - Elenco parchi e giardini to wiki
+2025-04-09 14:52:51,548 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:52:52,090 - geodata_processing - INFO - Successfully logged result for OpenData - Elenco varchi Bologna to wiki
+2025-04-09 14:53:27,060 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:53:27,408 - geodata_processing - INFO - Successfully logged result for OpenData - Emigrati secondo la destinazione, per sesso, quartiere e zona di provenienza - serie storica to wiki
+2025-04-09 14:53:33,807 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:53:34,139 - geodata_processing - INFO - Successfully logged result for OpenData - Emigrati stranieri secondo la destinazione, per cittadinanza e sesso - serie storica to wiki
+2025-04-09 14:53:37,756 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:53:38,070 - geodata_processing - INFO - Successfully logged result for OpenData - Emigrati stranieri secondo la destinazione, per età e sesso - serie storica to wiki
+2025-04-09 14:53:38,240 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:53:38,557 - geodata_processing - INFO - Successfully logged result for OpenData - Emilia Digital Library (EMILIB) - Utenti e Statistiche to wiki
+2025-04-09 14:53:51,612 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:53:51,973 - geodata_processing - INFO - Successfully logged result for OpenData - Eventi - Bologna Agenda Cultura to wiki
+2025-04-09 14:54:01,075 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:54:01,417 - geodata_processing - INFO - Successfully logged result for OpenData - Famiglie con almeno un componente maggiore di 64 anni per tipologia, dimensione familiare, numero di componenti di 65 anni e oltre per quartiere e zona- serie storica to wiki
+2025-04-09 14:54:12,881 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:54:13,201 - geodata_processing - INFO - Successfully logged result for OpenData - Famiglie residenti con almeno un componente minore di 14 anni per tipologia, dimensione familiare, numero di componenti minorenni, quartiere e zona - serie storica to wiki
+2025-04-09 14:54:28,936 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:54:29,299 - geodata_processing - INFO - Successfully logged result for OpenData - Famiglie residenti con almeno un componente minore di 18 anni per tipologia, dimensione familiare, numero di componenti minorenni, numero di componenti minorenni stranieri, quartiere e zona- serie storica to wiki
+2025-04-09 14:54:47,120 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:54:47,476 - geodata_processing - INFO - Successfully logged result for OpenData - Famiglie residenti con almeno un componente straniero per cittadinanza, tipologia, numero di componenti, numero di componenti stranieri, numero di componenti minori, quartiere e zona- serie storica to wiki
+2025-04-09 14:54:49,504 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:54:49,833 - geodata_processing - INFO - Successfully logged result for OpenData - Famiglie residenti per dimensione e tipologia familiare e Codice di Avviamento Postale (CAP) to wiki
+2025-04-09 14:55:06,900 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:07,229 - geodata_processing - INFO - Successfully logged result for OpenData - Famiglie residenti per età, tipologia e cittadinanza del capofamiglia per quartiere e zona - serie storica to wiki
+2025-04-09 14:55:07,579 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:07,894 - geodata_processing - INFO - Successfully logged result for OpenData - Finanziaria Bologna Metropolitana Spa to wiki
+2025-04-09 14:55:20,669 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:21,006 - geodata_processing - INFO - Successfully logged result for OpenData - Immigrati secondo la provenienza, per sesso, quartiere e zona di destinazione - serie storica to wiki
+2025-04-09 14:55:27,169 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:27,495 - geodata_processing - INFO - Successfully logged result for OpenData - Immigrati stranieri secondo la provenienza, per cittadinanza e sesso - serie storica to wiki
+2025-04-09 14:55:30,830 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:31,179 - geodata_processing - INFO - Successfully logged result for OpenData - Immigrati stranieri secondo la provenienza, per età e sesso - serie storica to wiki
+2025-04-09 14:55:31,540 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:31,848 - geodata_processing - INFO - Successfully logged result for OpenData - Impianti sportivi comunali to wiki
+2025-04-09 14:55:33,158 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:33,481 - geodata_processing - INFO - Successfully logged result for OpenData - Incarichi autorizzati to wiki
+2025-04-09 14:55:34,015 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:34,345 - geodata_processing - INFO - Successfully logged result for OpenData - Incarichi conferiti to wiki
+2025-04-09 14:55:34,974 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:35,319 - geodata_processing - INFO - Successfully logged result for OpenData - Incarichi di collaborazione to wiki
+2025-04-09 14:55:35,971 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:36,324 - geodata_processing - INFO - Successfully logged result for OpenData - Incidenti stradali to wiki
+2025-04-09 14:55:36,555 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:36,897 - geodata_processing - INFO - Successfully logged result for OpenData - Indicatori Raccolta Differenziata to wiki
+2025-04-09 14:55:37,183 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:37,513 - geodata_processing - INFO - Successfully logged result for OpenData - Indicatori Rifiuti Urbani to wiki
+2025-04-09 14:55:37,846 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:38,167 - geodata_processing - INFO - Successfully logged result for OpenData - Indici di fragilità - dal 2021 to wiki
+2025-04-09 14:55:38,450 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:38,758 - geodata_processing - INFO - Successfully logged result for OpenData - Inflazione mensile nazionale e nella città di Bologna to wiki
+2025-04-09 14:55:39,158 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:39,496 - geodata_processing - INFO - Successfully logged result for OpenData - Intero patrimonio abitativo esistente to wiki
+2025-04-09 14:55:39,912 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:40,235 - geodata_processing - INFO - Successfully logged result for OpenData - Interpellanze a risposta orale to wiki
+2025-04-09 14:55:40,810 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:41,124 - geodata_processing - INFO - Successfully logged result for OpenData - Iscritti in anagrafe per zona - serie storica to wiki
+2025-04-09 14:55:41,426 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:41,779 - geodata_processing - INFO - Successfully logged result for OpenData - Istanze agricoltura to wiki
+2025-04-09 14:55:44,567 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:44,893 - geodata_processing - INFO - Successfully logged result for OpenData - Istanze impianti telecomunicazione, carburanti, ascensori-montacarichi to wiki
+2025-04-09 14:55:47,426 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:47,756 - geodata_processing - INFO - Successfully logged result for OpenData - Istanze laboratori to wiki
+2025-04-09 14:55:52,375 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:52,703 - geodata_processing - INFO - Successfully logged result for OpenData - Istanze procedimenti ambientali to wiki
+2025-04-09 14:55:55,355 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:55,684 - geodata_processing - INFO - Successfully logged result for OpenData - Istanze servizi alla persona to wiki
+2025-04-09 14:55:56,866 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:57,272 - geodata_processing - INFO - Successfully logged result for OpenData - Lavori in corso in città (storico) to wiki
+2025-04-09 14:55:57,645 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:57,955 - geodata_processing - INFO - Successfully logged result for OpenData - Le aree verdi, piazze e vie di Bologna dedicate alle donne to wiki
+2025-04-09 14:55:58,256 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:55:58,580 - geodata_processing - INFO - Successfully logged result for OpenData - Mappa delle risorse sociali to wiki
+2025-04-09 14:56:14,682 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:56:15,022 - geodata_processing - INFO - Successfully logged result for OpenData - Mobilità giornaliera Bologna to wiki
+2025-04-09 14:56:15,347 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:56:15,680 - geodata_processing - INFO - Successfully logged result for OpenData - Modalità di presentazione ISEE - statistiche to wiki
+2025-04-09 14:56:23,320 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:56:23,645 - geodata_processing - INFO - Successfully logged result for OpenData - Morti residenti per sesso, età, stato civile, cittadinanza, quartiere e zona di provenienza - serie storica to wiki
+2025-04-09 14:56:25,038 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:56:25,601 - geodata_processing - INFO - Successfully logged result for OpenData - Nati vivi residenti con almeno un genitore di cittadinanza straniera per sesso, filiazione, cittadinanza dei genitori - serie storica to wiki
+2025-04-09 14:56:25,900 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:56:26,237 - geodata_processing - INFO - Successfully logged result for OpenData - Navile Solidale to wiki
+2025-04-09 14:57:34,695 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:57:35,055 - geodata_processing - INFO - Successfully logged result for OpenData - Numeri civici to wiki
+2025-04-09 14:57:35,408 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:57:35,718 - geodata_processing - INFO - Successfully logged result for OpenData - Numero iscritti ai servizi educativi, nidi to wiki
+2025-04-09 14:57:36,202 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:57:36,505 - geodata_processing - INFO - Successfully logged result for OpenData - Numero iscritti ai servizi integrativi scolastici della scuola dell'infanzia privata to wiki
+2025-04-09 14:57:37,472 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:57:37,777 - geodata_processing - INFO - Successfully logged result for OpenData - Numero iscritti ai servizi integrativi scolastici della scuola primaria to wiki
+2025-04-09 14:57:38,848 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:57:39,168 - geodata_processing - INFO - Successfully logged result for OpenData - Occupati e studenti suddivisi per sezione di censimento to wiki
+2025-04-09 14:57:40,411 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:57:40,723 - geodata_processing - INFO - Successfully logged result for OpenData - Occupazione e istruzione a Bologna to wiki
+2025-04-09 14:57:41,979 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:57:42,285 - geodata_processing - INFO - Successfully logged result for OpenData - Origini di Bologna - case del centro storico to wiki
+2025-04-09 14:57:43,207 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:57:43,529 - geodata_processing - INFO - Successfully logged result for OpenData - Origini di Bologna - case fuori dal centro storico to wiki
+2025-04-09 14:57:43,944 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:57:44,234 - geodata_processing - INFO - Successfully logged result for OpenData - Origini di Bologna - condotti coperti to wiki
+2025-04-09 14:57:44,801 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:57:45,111 - geodata_processing - INFO - Successfully logged result for OpenData - Origini di Bologna - condotti scoperti to wiki
+2025-04-09 14:57:45,385 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:57:45,688 - geodata_processing - INFO - Successfully logged result for OpenData - Origini di Bologna - edifici minori to wiki
+2025-04-09 14:57:46,268 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:57:46,584 - geodata_processing - INFO - Successfully logged result for OpenData - Origini di Bologna - orti e prati to wiki
+2025-04-09 14:57:46,756 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:57:47,065 - geodata_processing - INFO - Successfully logged result for OpenData - Origini di Bologna - torri to wiki
+2025-04-09 14:57:47,248 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:57:47,561 - geodata_processing - INFO - Successfully logged result for OpenData - Parcheggi a servizio dei consolati to wiki
+2025-04-09 14:57:47,990 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:57:48,288 - geodata_processing - INFO - Successfully logged result for OpenData - Parcheggi riservati forze di polizia to wiki
+2025-04-09 14:57:48,568 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:57:48,892 - geodata_processing - INFO - Successfully logged result for OpenData - Parcheggi - strutture to wiki
+2025-04-09 14:57:49,448 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:57:49,761 - geodata_processing - INFO - Successfully logged result for OpenData - Parchimetri to wiki
+2025-04-09 14:57:50,106 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:57:50,417 - geodata_processing - INFO - Successfully logged result for OpenData - Parco circolante veicoli to wiki
+2025-04-09 14:57:58,575 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:57:58,915 - geodata_processing - INFO - Successfully logged result for OpenData - Patrimonio terreni to wiki
+2025-04-09 14:57:59,274 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:57:59,577 - geodata_processing - INFO - Successfully logged result for OpenData - Permessi di costruire rilasciati to wiki
+2025-04-09 14:57:59,729 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:58:00,022 - geodata_processing - INFO - Successfully logged result for OpenData - PON Governance to wiki
+2025-04-09 14:58:00,316 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:58:00,615 - geodata_processing - INFO - Successfully logged result for OpenData - PON Metro Bologna - inclusione sociale to wiki
+2025-04-09 14:58:04,978 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:58:05,281 - geodata_processing - INFO - Successfully logged result for OpenData - Popolazione Arborea to wiki
+2025-04-09 14:58:31,478 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:58:31,796 - geodata_processing - INFO - Successfully logged result for OpenData - Popolazione residente dalla nascita e popolazione immigrata per provenienza, epoca di immigrazione sesso e cittadinanza -serie storica to wiki
+2025-04-09 14:58:56,273 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 14:58:56,619 - geodata_processing - INFO - Successfully logged result for OpenData - Popolazione residente in istituti di convivenza per cittadinanza, età, dimensione della struttura, quartiere e zona - serie storica to wiki
+2025-04-09 15:00:34,374 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:00:34,721 - geodata_processing - INFO - Successfully logged result for OpenData - Popolazione residente per età, sesso, cittadinanza, quartiere e zona (Popolazione residente a Bologna dal 1986 ) - serie storica to wiki
+2025-04-09 15:00:35,350 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:00:35,637 - geodata_processing - INFO - Successfully logged result for OpenData - Porto-Saragozza Solidale to wiki
+2025-04-09 15:00:37,828 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:00:38,130 - geodata_processing - INFO - Successfully logged result for OpenData - Presenze Musei Civici Bologna to wiki
+2025-04-09 15:00:40,075 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:00:40,386 - geodata_processing - INFO - Successfully logged result for OpenData - Progetti "Città 30" to wiki
+2025-04-09 15:00:41,086 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:00:41,392 - geodata_processing - INFO - Successfully logged result for OpenData - Proposte laboratorio di quartiere to wiki
+2025-04-09 15:00:41,954 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:00:42,270 - geodata_processing - INFO - Successfully logged result for OpenData - Quartieri di Bologna to wiki
+2025-04-09 15:00:42,597 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:00:42,928 - geodata_processing - INFO - Successfully logged result for OpenData - Quartieri - Statistiche Socio Demografiche to wiki
+2025-04-09 15:00:58,579 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:00:58,903 - geodata_processing - INFO - Successfully logged result for OpenData - Questionario "Città 30" - risposte to wiki
+2025-04-09 15:00:59,960 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:01:00,257 - geodata_processing - INFO - Successfully logged result for OpenData - Reddito mediano per area statistica to wiki
+2025-04-09 15:01:26,947 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:01:27,277 - geodata_processing - INFO - Successfully logged result for OpenData - Refezione scuola to wiki
+2025-04-09 15:01:27,639 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:01:27,932 - geodata_processing - INFO - Successfully logged result for OpenData - Rendiconto di Gestione - Quadro generale riassuntivo Rendiconto Entrate to wiki
+2025-04-09 15:01:28,231 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:01:28,534 - geodata_processing - INFO - Successfully logged result for OpenData - Rendiconto di Gestione - Quadro generale riassuntivo Rendiconto Uscite to wiki
+2025-04-09 15:01:29,103 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:01:29,448 - geodata_processing - INFO - Successfully logged result for OpenData - Rendiconto di Gestione - Rendiconto Entrate to wiki
+2025-04-09 15:01:43,201 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:01:43,501 - geodata_processing - INFO - Successfully logged result for OpenData - Riferimenti territoriali - Toponimi to wiki
+2025-04-09 15:03:20,004 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:03:20,374 - geodata_processing - INFO - Successfully logged result for OpenData - Rilevazione flusso veicoli tramite spire - anno 2021 to wiki
+2025-04-09 15:04:51,908 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:04:52,295 - geodata_processing - INFO - Successfully logged result for OpenData - Rilevazione flusso veicoli tramite spire - anno 2022 to wiki
+2025-04-09 15:07:51,675 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:07:52,060 - geodata_processing - INFO - Successfully logged result for OpenData - Rilevazione flusso veicoli tramite spire - anno 2023 to wiki
+2025-04-09 15:10:56,865 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:10:57,276 - geodata_processing - INFO - Successfully logged result for OpenData - Rilevazione flusso veicoli tramite spire - anno 2024 to wiki
+2025-04-09 15:10:57,631 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:10:57,956 - geodata_processing - INFO - Successfully logged result for OpenData - ROCK - La sostenibilità degli eventi to wiki
+2025-04-09 15:10:58,783 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:10:59,105 - geodata_processing - INFO - Successfully logged result for OpenData - ROCK - MAMbo Julian Charrière to wiki
+2025-04-09 15:10:59,288 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:10:59,617 - geodata_processing - INFO - Successfully logged result for OpenData - Scuole di quartiere - Attività to wiki
+2025-04-09 15:10:59,918 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:00,249 - geodata_processing - INFO - Successfully logged result for OpenData - Scuole di quartiere - Interventi to wiki
+2025-04-09 15:11:00,562 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:00,885 - geodata_processing - INFO - Successfully logged result for OpenData - Scuole di quartiere - interventi puntuali to wiki
+2025-04-09 15:11:01,238 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:01,566 - geodata_processing - INFO - Successfully logged result for OpenData - Secondlife: Area del riuso Bologna to wiki
+2025-04-09 15:11:01,909 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:02,239 - geodata_processing - INFO - Successfully logged result for OpenData - Servizi per giovani to wiki
+2025-04-09 15:11:05,343 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:05,675 - geodata_processing - INFO - Successfully logged result for OpenData - Sezioni di censimento - anno 2001 to wiki
+2025-04-09 15:11:08,180 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:08,529 - geodata_processing - INFO - Successfully logged result for OpenData - Sezioni di censimento - anno 2011 to wiki
+2025-04-09 15:11:10,670 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:10,994 - geodata_processing - INFO - Successfully logged result for OpenData - Siepi in manutenzione to wiki
+2025-04-09 15:11:11,227 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:11,569 - geodata_processing - INFO - Successfully logged result for OpenData - Sosta autoveicoli - transazioni effettuate to wiki
+2025-04-09 15:11:12,070 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:12,400 - geodata_processing - INFO - Successfully logged result for OpenData - Spese degli organismi consiliari to wiki
+2025-04-09 15:11:12,651 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:12,969 - geodata_processing - INFO - Successfully logged result for OpenData - Sportelli DIMMI! to wiki
+2025-04-09 15:11:13,260 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:13,580 - geodata_processing - INFO - Successfully logged result for OpenData - Sportelli Sociali to wiki
+2025-04-09 15:11:13,827 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:14,153 - geodata_processing - INFO - Successfully logged result for OpenData - Sportelli Sociali - Contatti per tipo di servizio to wiki
+2025-04-09 15:11:14,567 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:14,889 - geodata_processing - INFO - Successfully logged result for OpenData - Sportelli Sociali - Utenti annuali to wiki
+2025-04-09 15:11:15,416 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:15,755 - geodata_processing - INFO - Successfully logged result for OpenData - Storia Resilienza - Imprese attive per codice ATECO e genere to wiki
+2025-04-09 15:11:16,001 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:16,528 - geodata_processing - INFO - Successfully logged result for OpenData - Storia Resilienza - Indice di crescita to wiki
+2025-04-09 15:11:17,137 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:17,479 - geodata_processing - INFO - Successfully logged result for OpenData - Storia Resilienza - Indice di crescita per quartiere,zona,area statistica to wiki
+2025-04-09 15:11:26,119 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:26,455 - geodata_processing - INFO - Successfully logged result for OpenData - Storia resilienza - Mappatura Imprese Marzo 2021 to wiki
+2025-04-09 15:11:26,686 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:27,009 - geodata_processing - INFO - Successfully logged result for OpenData - Storia Resilienza - Ore CIG to wiki
+2025-04-09 15:11:27,306 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:27,632 - geodata_processing - INFO - Successfully logged result for OpenData - Strutture sanitarie pubbliche e ospedali privati to wiki
+2025-04-09 15:11:27,879 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:28,215 - geodata_processing - INFO - Successfully logged result for OpenData - Teatri e cinema to wiki
+2025-04-09 15:11:29,860 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:30,180 - geodata_processing - INFO - Successfully logged result for OpenData - Temperature Bologna to wiki
+2025-04-09 15:11:30,476 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:30,809 - geodata_processing - INFO - Successfully logged result for OpenData - Tile server - Ortofoto Comune di Bologna to wiki
+2025-04-09 15:11:31,098 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:31,431 - geodata_processing - INFO - Successfully logged result for OpenData - Tipologia utenze che accedono a Rete Civica to wiki
+2025-04-09 15:11:31,914 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:32,240 - geodata_processing - INFO - Successfully logged result for OpenData - Tour de France - Percorso to wiki
+2025-04-09 15:11:35,186 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:35,502 - geodata_processing - INFO - Successfully logged result for OpenData - TPER - Fermate autobus to wiki
+2025-04-09 15:11:35,925 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:36,250 - geodata_processing - INFO - Successfully logged result for OpenData - TPER - Rivendite to wiki
+2025-04-09 15:11:36,471 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:36,785 - geodata_processing - INFO - Successfully logged result for OpenData - TPER - Stazioni Ferroviarie to wiki
+2025-04-09 15:11:36,971 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:37,289 - geodata_processing - INFO - Successfully logged result for OpenData - Traffico pubblico locale - Km percorsi e validazioni to wiki
+2025-04-09 15:11:37,514 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:37,836 - geodata_processing - INFO - Successfully logged result for OpenData - URP di quartiere to wiki
+2025-04-09 15:11:38,064 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:11:38,379 - geodata_processing - INFO - Successfully logged result for OpenData - URP - incassi to wiki
+2025-04-09 15:14:00,072 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:14:00,465 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 1058 - Calari - direzione sud to wiki
+2025-04-09 15:15:16,745 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:15:17,107 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 1059 - San Felice - direzione centro to wiki
+2025-04-09 15:16:37,915 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:16:38,280 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 1062 - piazza Azzarita - direzione sud to wiki
+2025-04-09 15:19:43,864 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:19:44,231 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 13 - Matteotti - direzione centro to wiki
+2025-04-09 15:22:26,103 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:22:26,493 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 17 - Indipendenza - direzione centro to wiki
+2025-04-09 15:24:47,234 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:24:47,617 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 18 - Ugo Bassi - direzione centro to wiki
+2025-04-09 15:27:17,481 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:27:17,856 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 19 - Rizzoli - direzione centro to wiki
+2025-04-09 15:29:47,347 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:29:47,757 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 1 - S. Isaia - direzione centro to wiki
+2025-04-09 15:32:25,697 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:32:26,073 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 23 - D'Azeglio - direzione centro to wiki
+2025-04-09 15:34:31,439 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:34:31,824 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 29 - Ferrarese - direzione centro to wiki
+2025-04-09 15:37:24,975 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:37:25,376 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 2 - S. Vitale - direzione centro to wiki
+2025-04-09 15:38:51,104 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:38:51,481 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 30 - Massarenti - direzione periferia to wiki
+2025-04-09 15:40:16,300 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:40:16,710 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 31 - Liberazione - direzione est to wiki
+2025-04-09 15:41:35,669 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:41:36,058 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 33 - Creti - direzione ovest to wiki
+2025-04-09 15:43:12,459 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:43:12,805 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 34 - Mezzofanti - direzione sud-est to wiki
+2025-04-09 15:44:47,375 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:44:47,764 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 37 - Piazza Medaglie D'Oro - direzione bus to wiki
+2025-04-09 15:47:34,741 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:47:35,130 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 3 - Marconi laterale - direzione sud to wiki
+2025-04-09 15:49:53,224 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:49:53,633 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 40 - Mazzini - direzione centro to wiki
+2025-04-09 15:52:00,087 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:52:00,443 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 43 - del Lavoro - direzione nord-ovest to wiki
+2025-04-09 15:53:08,099 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:53:08,488 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 44 - viale Ercolani - direzione nord to wiki
+2025-04-09 15:55:49,029 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:55:49,428 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 45 - p.ta Santo Stefano - direzione centro to wiki
+2025-04-09 15:57:21,529 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:57:21,886 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 47 - Porrettana - direzione centro to wiki
+2025-04-09 15:59:51,828 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 15:59:52,260 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 48 - Emilia Ponente - direzione centro to wiki
+2025-04-09 16:02:34,288 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:02:34,734 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 49 - Piazza Re Enzo - direzione sud to wiki
+2025-04-09 16:06:00,096 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:06:00,487 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 50 - Finelli - direzione sud-est to wiki
+2025-04-09 16:07:05,637 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:07:06,032 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 53 - Mascarella - direzione sud to wiki
+2025-04-09 16:08:29,902 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:08:30,269 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 54 - Borgo di San Pietro - direzione nord to wiki
+2025-04-09 16:09:40,635 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:09:41,028 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 58 - Santo Stefano - direzione sud-est to wiki
+2025-04-09 16:11:36,061 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:11:36,459 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 59 - Saragozza - direzione centro to wiki
+2025-04-09 16:13:52,939 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:13:53,306 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 60 - Bocca di Lupo - direzione nord to wiki
+2025-04-09 16:16:39,032 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:16:39,405 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 63 - Marconi TPER - direzione periferia to wiki
+2025-04-09 16:17:21,707 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:17:22,055 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 65 - Irnerio - direzione periferia to wiki
+2025-04-09 16:18:46,152 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:18:46,547 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 67 - Dozza TPER - direzione centro to wiki
+2025-04-09 16:21:21,075 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:21:21,443 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 68 - Dozza TPER - direzione periferia to wiki
+2025-04-09 16:22:43,517 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:22:43,881 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 69 - Righi - direzione Moline to wiki
+2025-04-09 16:24:59,622 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:25:00,038 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 6 - Santo Stefano - direzione centro to wiki
+2025-04-09 16:26:35,672 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:26:36,082 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 72 - Coltellini - direzione via del Pratello to wiki
+2025-04-09 16:28:15,391 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:28:15,787 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 73 - piazza San Francesco - direzione ovest to wiki
+2025-04-09 16:29:53,877 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:29:54,254 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 74 - Aldrovandi - direzione strada Maggiore to wiki
+2025-04-09 16:31:49,604 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:31:49,992 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 76 - Chiudare - direzione via Arienti to wiki
+2025-04-09 16:32:52,434 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:32:52,796 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 79 - Santa - direzione via Santo Stefano to wiki
+2025-04-09 16:36:13,690 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:36:14,069 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 80 - Falegnami - direzione via Indipendenza to wiki
+2025-04-09 16:37:47,976 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:37:48,347 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 81 - via Falegnami - direzione Galliera to wiki
+2025-04-09 16:38:57,417 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:38:57,820 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 82 - via delle Moline - direzione Mentana to wiki
+2025-04-09 16:40:10,979 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:40:11,357 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 84 - Rizzoli TPER - direzione periferia to wiki
+2025-04-09 16:41:00,414 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:41:00,754 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 86 - Calari - direzione via del Pratello to wiki
+2025-04-09 16:41:30,631 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:41:31,019 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 88 - Pietralata - direzione via del Pratello to wiki
+2025-04-09 16:42:37,802 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:42:38,378 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 90 - Moline/Mentana - direzione via Capo di Lucca to wiki
+2025-04-09 16:43:34,721 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:43:35,060 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 91 - Moline/Alessandrini - direzione via Mentana to wiki
+2025-04-09 16:44:23,011 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:44:23,358 - geodata_processing - INFO - Successfully logged result for OpenData - Varco n. 93 - via del Pratello - direzione via del Borghetto to wiki
+2025-04-09 16:44:23,990 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:44:24,302 - geodata_processing - INFO - Successfully logged result for OpenData - Veicoli circolanti suddivisi per anno di immatricolazione to wiki
+2025-04-09 16:44:39,593 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:44:39,932 - geodata_processing - INFO - Successfully logged result for OpenData - Verde privato nel territorio urbanizzato to wiki
+2025-04-09 16:44:42,136 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:44:42,459 - geodata_processing - INFO - Successfully logged result for OpenData - Visitatori Bologna: Nazionalità to wiki
+2025-04-09 16:44:43,322 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:44:43,625 - geodata_processing - INFO - Successfully logged result for OpenData - Visitatori Bologna: Nuovi e Ricorrenti to wiki
+2025-04-09 16:44:46,560 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:44:46,896 - geodata_processing - INFO - Successfully logged result for OpenData - Visitatori Giornalieri Bologna to wiki
+2025-04-09 16:44:47,076 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:44:47,383 - geodata_processing - INFO - Successfully logged result for OpenData - Vocabolario sensori ROCK to wiki
+2025-04-09 16:44:48,809 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:44:49,118 - geodata_processing - INFO - Successfully logged result for OpenData - Workshop BCN - mappatura POI completa to wiki
+2025-04-09 16:44:49,342 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:44:49,658 - geodata_processing - INFO - Successfully logged result for OpenData - Zona T centro storico to wiki
+2025-04-09 16:44:49,983 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:44:50,296 - geodata_processing - INFO - Successfully logged result for OpenData - Zone del Comune di Bologna to wiki
+2025-04-09 16:44:51,004 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:44:51,324 - geodata_processing - INFO - Successfully logged result for OpenData - Zone sosta per via e civico to wiki
+2025-04-09 16:46:37,700 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:46:38,058 - geodata_processing - INFO - Successfully logged result for Popolazione residente per stato civile, età, sesso, cittadinanza, quartiere e zona - serie storica to wiki
+2025-04-09 16:47:14,166 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:47:14,501 - geodata_processing - INFO - Successfully logged result for Spire to wiki
+2025-04-09 16:47:14,755 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:47:15,059 - geodata_processing - INFO - Successfully logged result for Stazioni di ricarica to wiki
+2025-04-09 16:47:15,060 - geodata_processing - ERROR - No download URL for TemplatePage:DataSet
+2025-04-09 16:47:15,370 - geodata_processing - INFO - Successfully logged result for TemplatePage:DataSet to wiki
+2025-04-09 16:47:15,525 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-09 16:47:15,816 - geodata_processing - INFO - Successfully logged result for TPER Rete su gomma to wiki
+2025-04-09 16:47:16,347 - geodata_processing - ERROR - Error processing join: Missing geo metadata in Parquet/Feather file.
+            Use pandas.read_parquet/read_feather() instead.
+2025-04-10 05:35:28,136 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-10 05:35:28,136 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-10 05:35:28,244 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-10 05:35:29,315 - geodata_processing - INFO - Found 268 datasets
+2025-04-10 05:35:29,459 - geodata_processing - INFO - Found 1 join configurations
+2025-04-10 05:35:39,476 - geodata_processing - ERROR - Failed to load data as GeoDataFrame
+2025-04-10 05:35:39,986 - geodata_processing - INFO - Successfully logged result for Archi Stradali to wiki
+2025-04-10 05:35:42,045 - geodata_processing - INFO - Loaded Shapefile with CRS: EPSG:32632
+2025-04-10 05:35:42,063 - geodata_processing - INFO - Geometry column type: geometry
+2025-04-10 05:35:42,070 - geodata_processing - INFO - Number of valid geometries: 38603
+2025-04-10 05:35:42,467 - geodata_processing - INFO - Saved GeoParquet file to geodata/Basi Censuarie ISTAT.parquet
+2025-04-10 05:35:42,467 - geodata_processing - INFO - Downloaded and converted Basi Censuarie ISTAT
+2025-04-10 05:35:42,795 - geodata_processing - INFO - Successfully logged result for Basi Censuarie ISTAT to wiki
+2025-04-10 05:36:12,339 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-10 05:36:12,340 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-10 05:36:12,454 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-10 05:36:13,487 - geodata_processing - INFO - Found 268 datasets
+2025-04-10 05:36:13,629 - geodata_processing - INFO - Found 1 join configurations
+2025-04-10 05:36:13,981 - geodata_processing - INFO - Left DataFrame columns: ['COD_REG', 'COD_ISTAT', 'PRO_COM', 'SEZ2011', 'SEZ', 'COD_STAGNO', 'COD_FIUME', 'COD_LAGO', 'COD_LAGUNA', 'COD_VAL_P', 'COD_ZONA_C', 'COD_IS_AMM', 'COD_IS_LAC', 'COD_IS_MAR', 'COD_AREA_S', 'COD_MONT_D', 'LOC2011', 'COD_LOC', 'TIPO_LOC', 'COM_ASC', 'COD_ASC', 'ACE', 'Shape_Leng', 'Shape_Area', 'geometry']
+2025-04-10 05:36:13,981 - geodata_processing - INFO - Right DataFrame columns: ['sez2011', 'anno', 'nome_quart', 'nome_zona', 'nome_areas', 'unita_locali', 'addetti_ul', 'unita_afferenti', 'unitaafferenti']
+2025-04-10 05:36:14,003 - geodata_processing - INFO - Left column 'SEZ' type: object
+2025-04-10 05:36:14,003 - geodata_processing - INFO - Right column 'sez2011' type: object
+2025-04-10 05:36:14,005 - geodata_processing - INFO - Left column sample values: 0    1631.0
+1      53.0
+2       3.0
+3     361.0
+4     263.0
+Name: SEZ, dtype: object
+2025-04-10 05:36:14,006 - geodata_processing - INFO - Right column sample values: 0     1
+1     6
+2     7
+3     8
+4    13
+Name: sez2011, dtype: object
+2025-04-10 05:36:14,025 - geodata_processing - INFO - Merged DataFrame shape: (0, 34)
+2025-04-10 05:36:14,025 - geodata_processing - INFO - Merged DataFrame columns: ['COD_REG', 'COD_ISTAT', 'PRO_COM', 'SEZ2011', 'SEZ', 'COD_STAGNO', 'COD_FIUME', 'COD_LAGO', 'COD_LAGUNA', 'COD_VAL_P', 'COD_ZONA_C', 'COD_IS_AMM', 'COD_IS_LAC', 'COD_IS_MAR', 'COD_AREA_S', 'COD_MONT_D', 'LOC2011', 'COD_LOC', 'TIPO_LOC', 'COM_ASC', 'COD_ASC', 'ACE', 'Shape_Leng', 'Shape_Area', 'geometry', 'sez2011', 'anno', 'nome_quart', 'nome_zona', 'nome_areas', 'unita_locali', 'addetti_ul', 'unita_afferenti', 'unitaafferenti']
+2025-04-10 05:36:14,032 - geodata_processing - INFO - Processed join: Basi Censuarie ISTAT + Occupati e studenti suddivisi per sezione di censimento
+2025-04-10 05:55:02,179 - mwclient.client - WARNING - Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes.
+2025-04-10 05:55:02,179 - mwclient.client - WARNING - Main-account login via "action=login" is deprecated and may stop working without warning. To continue login with "action=login", see [[Special:BotPasswords]]. To safely continue using main-account login, see "action=clientlogin".
+2025-04-10 05:55:02,281 - geodata_processing - INFO - Connected to MediaWiki at http://51.15.160.236:8880/
+2025-04-10 05:55:03,350 - geodata_processing - INFO - Found 280 datasets
+2025-04-10 05:55:03,490 - geodata_processing - INFO - Found 1 join configurations
+2025-04-10 05:55:03,864 - geodata_processing - INFO - Left DataFrame columns: ['COD_REG', 'COD_ISTAT', 'PRO_COM', 'SEZ2011', 'SEZ', 'COD_STAGNO', 'COD_FIUME', 'COD_LAGO', 'COD_LAGUNA', 'COD_VAL_P', 'COD_ZONA_C', 'COD_IS_AMM', 'COD_IS_LAC', 'COD_IS_MAR', 'COD_AREA_S', 'COD_MONT_D', 'LOC2011', 'COD_LOC', 'TIPO_LOC', 'COM_ASC', 'COD_ASC', 'ACE', 'Shape_Leng', 'Shape_Area', 'geometry']
+2025-04-10 05:55:03,864 - geodata_processing - INFO - Right DataFrame columns: ['sez2011', 'anno', 'nome_quart', 'nome_zona', 'nome_areas', 'unita_locali', 'addetti_ul', 'unita_afferenti', 'unitaafferenti']
+2025-04-10 05:55:03,899 - geodata_processing - INFO - Left column 'SEZ' type: object
+2025-04-10 05:55:03,899 - geodata_processing - INFO - Right column 'sez2011' type: object
+2025-04-10 05:55:03,900 - geodata_processing - INFO - Left column sample values: 0    1631.0
+1      53.0
+2       3.0
+3     361.0
+4     263.0
+Name: SEZ, dtype: object
+2025-04-10 05:55:03,900 - geodata_processing - INFO - Right column sample values: 0     1
+1     6
+2     7
+3     8
+4    13
+Name: sez2011, dtype: object
+2025-04-10 05:55:03,916 - geodata_processing - INFO - Merged DataFrame shape: (0, 34)
+2025-04-10 05:55:03,916 - geodata_processing - INFO - Merged DataFrame columns: ['COD_REG', 'COD_ISTAT', 'PRO_COM', 'SEZ2011', 'SEZ', 'COD_STAGNO', 'COD_FIUME', 'COD_LAGO', 'COD_LAGUNA', 'COD_VAL_P', 'COD_ZONA_C', 'COD_IS_AMM', 'COD_IS_LAC', 'COD_IS_MAR', 'COD_AREA_S', 'COD_MONT_D', 'LOC2011', 'COD_LOC', 'TIPO_LOC', 'COM_ASC', 'COD_ASC', 'ACE', 'Shape_Leng', 'Shape_Area', 'geometry', 'sez2011', 'anno', 'nome_quart', 'nome_zona', 'nome_areas', 'unita_locali', 'addetti_ul', 'unita_afferenti', 'unitaafferenti']
+2025-04-10 05:55:03,928 - geodata_processing - INFO - Processed join: Basi Censuarie ISTAT + Occupati e studenti suddivisi per sezione di censimento

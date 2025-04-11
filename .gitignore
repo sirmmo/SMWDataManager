@@ -1,0 +1,8 @@
+/data
+/dls
+/geodata
+
+/__pycache__
+/.cache
+/.local
+/.config
